@@ -1,0 +1,5 @@
+/* ID Selector: Targets the single element with id="main-header" */
+#main-header {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
